@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Stonks</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="high_price">1</string>
+    <string name="low_price">1</string>
+    <string name="volume">Volume</string>
+    <string name="open_price">Open Price</string>
+    <string name="low_24">24h Low</string>
+    <string name="high_24">24h High</string>
+</resources>
